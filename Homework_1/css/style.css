@@ -1,0 +1,26 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: #b2b8ca;
+   padding: 100px 40px;
+}
+
+.title {
+   font-size: 35px;
+   margin-bottom: 40px;
+}
+
+.post {
+   border: solid #34495e;
+   padding: 21px;
+   margin-top: 30px;
+   background-color: #34495e;
+   border-radius: 20px;
+   color: #e1e8f7;
+   text-align: center;
+   height: 100px;
+}
